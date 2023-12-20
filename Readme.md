@@ -20,7 +20,7 @@ Este repositório contém o código-fonte e os recursos necessários para o site
 
     ![Contato](<Contato.png>)
 
-  2. **Design Responsivo: (ainda não feito)**
+  2. **Design Responsivo**
   * O site é projetado para ser visualizado em dispositivos móveis, garantindo uma experiência consistente em diferentes tamanhos de tela.
 
     ![Página principal](<Pagina_Principal_Mobile.png>)
