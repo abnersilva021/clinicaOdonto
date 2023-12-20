@@ -41,7 +41,7 @@ JavaScript |
 
 ## Como Executar Localmente:
 
-1. Clone o repositório: `git clone https://github.com/LeonardoBrumB/clinicaOdonto`
-1. Abra o arquivo `index.html` em um navegador da web.
+1.  acesse o site com o link https://abnersilva021.github.io/clinicaOdonto/
 
 ## Esse é um projeto público, aceitamos feedback para poder aperfeiçoá-lo.
+
